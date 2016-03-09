@@ -1,0 +1,10 @@
+{
+    "service": {
+        "name": "static",
+        "tags": [
+            "static",
+            "version-1"
+        ], 
+        "port": 80
+    }
+}
